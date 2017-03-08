@@ -1,3 +1,20 @@
 .page-head {
     text-align: center;
 }
+
+.section {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+}
+
+.section-title {
+    margin-top: 1%;
+}
+
+
+.section-border {
+    border-style: solid;
+    border-size: 2px;
+    background-color: #DCDCDC;
+}
