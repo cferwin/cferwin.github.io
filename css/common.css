@@ -12,9 +12,16 @@
     margin-top: 1%;
 }
 
-
 .section-border {
     border-style: solid;
     border-size: 2px;
     background-color: #DCDCDC;
+}
+
+#picture {
+    padding-left: 5%;
+}
+
+#about-me-text {
+    padding-right: 5%;
 }
